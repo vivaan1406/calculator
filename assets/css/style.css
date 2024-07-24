@@ -1,0 +1,12 @@
+.calc_btn {
+    width: 100px;
+    height: 50px;
+    margin-bottom: 5px;
+    border-radius: 50px;
+  }
+  .Calculator {
+    width: 418px;
+  }
+  #display {
+    box-shadow: rgba(0, 0, 0, 25) 0px 25px 50px -12px;
+  }
