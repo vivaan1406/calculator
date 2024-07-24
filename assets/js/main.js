@@ -1,6 +1,7 @@
 let calc_btns = document.querySelectorAll(".calc_btn");
 let display = document.querySelector("#display");
 let isSymbolClicked = false;
+// console.log(isSymbolClicked);
 
 for (let calc_btn of calc_btns) {
   // console.log(calc_btn);
